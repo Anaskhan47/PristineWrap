@@ -1,4 +1,5 @@
 # portfolio.ash
+My portfolio website showcases my skills, experience, and projects to provide an overview of my professional profile. It serves as a central hub for potential employers, clients, and collaborators to learn more about my work and capabilities.
 ## [My Portfolio](https://abdulrahman788.github.io/portfolio.ash/)
 
 
