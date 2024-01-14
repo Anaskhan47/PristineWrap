@@ -15,7 +15,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Check if the email is sent successfully
     if (mail($to, $subject, $email_message, $headers)) {
         // Use an absolute URL for the redirection
-        alert("Message Sent Successfully");
+        echo '<script>alert("Message Sent Successfully")</script>'; 
         exit();
     }
 }
